@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Cybersecurity Lab Environment Setup
+# 🔐 Penetration Testing Project on Mediroza General Hospital
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
